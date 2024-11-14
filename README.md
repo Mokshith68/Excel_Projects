@@ -1,5 +1,6 @@
 # Vrinda Store Annual Sales Report 2022
-
+## Dashboard Vedio
+file:///C:/Users/MOKSHITH/Videos/Vrinda%20Store%20analysis.mp4
 ## Project Objective
 Vrinda Store aims to create an annual sales report for 2022 to understand customer behavior and increase sales in 2023.
 
